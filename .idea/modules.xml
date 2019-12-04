@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Rugby-Player-Management.iml" filepath="$PROJECT_DIR$/.idea/Rugby-Player-Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RugbyPlayerManagement.iml" filepath="$PROJECT_DIR$/.idea/RugbyPlayerManagement.iml" />
     </modules>
   </component>
 </project>
